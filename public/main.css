@@ -29,7 +29,7 @@ body {
     padding: 0 20px;
 }
 
-.event-card__content__info {
+.event-card__info {
     padding-bottom: 5px;
 }
 
@@ -40,13 +40,13 @@ body {
     width: 230px;
 }
 
-.event-card__image-wrapper__image {
+.event-card__image {
     border-radius: 5px;
     height: auto;
     width: 100%;
 }
 
-.event-card__image-wrapper__free-tag {
+.event-card__free-tag {
     align-items: center;
     background-color: #fff;
     border-radius: 4px;
@@ -62,11 +62,11 @@ body {
     width: 87px;
 }
 
-.event-card__image-wrapper__free-tag--hiden {
+.event-card__free-tag--hidden {
     display: none;
 }
 
-.event-card__content__header {
+.event-card__header {
     color: #39364f;
     font-size: 1.2rem;
     font-weight: 400;
